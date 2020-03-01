@@ -55,7 +55,7 @@
         android:layout_margin="10dp"
         android:background="@drawable/backgroud_login"
         android:padding="10dp"
-        android:text="@string/log_in"
+        android:text="@string/sign_up"
         android:textColor="@android:color/white" />
 
     <TextView

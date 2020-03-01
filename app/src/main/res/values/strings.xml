@@ -12,4 +12,5 @@
     <string name="signupbelow_reg">Already have an acouunt? Log In here.</string>
     <string name="imgDescription">dalily shopping logo</string>
     <string name="reg_logo">reg logo</string>
+    <string name="sign_up">Sign Up</string>
 </resources>
