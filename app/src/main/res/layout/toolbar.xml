@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_layout">
+
+
+    <androidx.cardview.widget.CardView>
+        <androidx.support.design.v7.widget.Toolbar>
+
+
+        </androidx.support.design.v7.widget.Toolbar>
+
+
+
+
+    </androidx.cardview.widget.CardView>
+
+</androidx.support.v7.widget.Toolbar>

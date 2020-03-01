@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Shopping List</string>
+    <string name="log_in">Log In</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="signupbelow_log">Don\'t have account? Sign up here.</string>
+
+    <string name="reg">Registration</string>
+    <string name="email_reg">Email</string>
+    <string name="password_reg">Password</string>
+
+    <string name="signupbelow_reg">Already have an acouunt? Log In here.</string>
+    <string name="imgDescription">dalily shopping logo</string>
+    <string name="reg_logo">reg logo</string>
+</resources>
